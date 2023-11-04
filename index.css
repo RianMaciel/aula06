@@ -1,0 +1,54 @@
+ header{
+    background-color: yellow;
+    font-size: 20px;
+ }
+ nav ul{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style-type: none;
+    padding: 5px;
+ }
+
+ h1{
+    background-color: lightgray;
+    color:rgb(25, 212, 25);
+    text-align: center;
+    font-family: Arial;
+    padding: 4px;
+    font-size: 39px;
+    
+    } 
+    
+ h2{
+   
+   background-color:lightgray;
+   color:red;
+   text-align: center;
+   font-family: Arial;
+   padding: 4px;
+ }
+ p{
+    margin: 12px;
+    text-align: justify;
+    padding: 10px;
+    font-size: 21px;
+    
+ }
+
+ ol{
+    background-color:linen;
+    color: blueviolet;
+    margin: 4px;
+    font-size: 19px;
+ }
+
+a:link{
+    color: rgb(22, 236, 36);
+    
+}
+a:visited{
+    color: blue
+}
+ 
+    
